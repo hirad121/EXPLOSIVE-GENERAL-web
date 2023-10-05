@@ -8,7 +8,7 @@ function App() {
         <header class="header">
             <div class="brand">
                 <button onclick="openMenu()">&#9776;</button>
-                <a href="index.html">Jet Piranha</a>
+                <a href="index.html">Explosive General</a>
         </div>
   );
 }
