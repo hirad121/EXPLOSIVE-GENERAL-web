@@ -4,9 +4,9 @@ import './App.css';
 
 function App() {
   return (
-    <div class="grid-container">
-        <header class="header">
-            <div class="brand">
+    <div className="grid-container">
+        <header className="header">
+            <div className="brand">
                 <button onclick="openMenu()">&#9776;</button>
                 <a href="index.html">Explosive General</a>
         </div>
